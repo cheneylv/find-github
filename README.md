@@ -1,16 +1,140 @@
-## 发现有趣的GitHub项目
-
-老话常谈，兴趣是最好的老师，相信很多人和我一样，空闲的时候，翻翻GitHub，已经成为一种生活方式。
+<div align="center">
+    <h1>发现有趣的GitHub项目</h1>
+    相信很多人和我一样，空闲的时候，翻翻GitHub，已经成为一种生活方式。
+</div>
 
 ## 阅读器
 正在开发一款桌面软件，可以发现、查找GitHub项目，并方便的阅读源码。
 
-
-| :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
-| ------- | ----- | ------------ | ------ | --------- |
-| [第 35 期](/content/35/HelloGitHub35.md) | [第 34 期](/content/34/HelloGitHub34.md) | [第 33 期](/content/33/HelloGitHub33.md) | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
-| [第 05 期](/content/05/HelloGitHub05.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 01 期](/content/01/HelloGitHub01.md) |
-
+## 分类
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">软件</td>
+            <td align="center">资料</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="content/assembly.md">Assembly</a></td> 
+            <td align="center"><a href="content/assembly.md">Assembly</a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="content/c.md">C</a></td> 
+            <td align="center"><a href="content/c.md">C</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/cplus.md">C++</a></td> 
+            <td align="center"><a href="content/cplus.md">C++</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/csharp.md">C#</a></td> 
+            <td align="center"><a href="content/csharp.md">C#</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/dart.md">Dart</a></td> 
+            <td align="center"><a href="content/dart.md">Dart</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/erlang.md">Erlang</a></td> 
+            <td align="center"><a href="content/erlang.md">Erlang</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/go.md">Go</a></td> 
+            <td align="center"><a href="content/go.md">Go</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/groovy.md">Groovy</a></td> 
+            <td align="center"><a href="content/groovy.md">Groovy</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/html.md">Html</a></td> 
+            <td align="center"><a href="content/html.md">Html</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/javascript.md">JavaScript</a></td> 
+            <td align="center"><a href="content/javascript.md">JavaScript</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/java.md">Java</a></td> 
+            <td align="center"><a href="content/java.md">Java</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/jupyternotebook.md">Jupyter Notebook</a></td> 
+            <td align="center"><a href="content/jupyternotebook.md">Jupyter Notebook</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/kotlin.md">Kotlin</a></td> 
+            <td align="center"><a href="content/kotlin.md">Kotlin</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/lua.md">Lua</a></td> 
+            <td align="center"><a href="content/lua.md">Lua</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/matlab.md">Matlab</a></td> 
+            <td align="center"><a href="content/matlab.md">Matlab</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/nodejs.md">Node.js</a></td> 
+            <td align="center"><a href="content/nodejs.md">Node.js</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/objectviec.md">Objective-C</a></td> 
+            <td align="center"><a href="content/objectviec.md">Objective-C</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/php.md">PHP</a></td> 
+            <td align="center"><a href="content/php.md">PHP</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/python.md">Python</a></td> 
+            <td align="center"><a href="content/python.md">Python</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/perl.md">Perl</a></td> 
+            <td align="center"><a href="content/perl.md">Perl</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/pascal.md">Pascal</a></td> 
+            <td align="center"><a href="content/pascal.md">Pascal</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/r.md">R</a></td> 
+            <td align="center"><a href="content/r.md">R</a></td> 
+        </tr>        
+        <tr>
+            <td align="center"><a href="content/rust.md">Rust</a></td> 
+            <td align="center"><a href="content/rust.md">Rust</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/ruby.md">Ruby</a></td> 
+            <td align="center"><a href="content/ruby.md">Ruby</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/swift.md">Swift</a></td> 
+            <td align="center"><a href="content/swift.md">Swift</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/shell.md">Shell</a></td> 
+            <td align="center"><a href="content/shell.md">Shell</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/typescript.md">TypeScript</a></td> 
+            <td align="center"><a href="content/typescript.md">TypeScript</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/teX.md">TeX</a></td> 
+            <td align="center"><a href="content/teX.md">TeX</a></td> 
+        </tr>        
+        <tr>
+            <td align="center"><a href="content/vue.md">Vue</a></td> 
+            <td align="center"><a href="content/vue.md">Vue</a></td> 
+        </tr>
+        <tr>
+            <td align="center"><a href="content/vim.md">Vim</a></td> 
+            <td align="center"><a href="content/vim.md">Vim</a></td> 
+        </tr>      
+    </table>
+</div>
 
 欢迎[自荐](https://github.com/wallace5303/find-github/issues/new)项目成为 **find-github** 的[贡献者](https://github.com/wallace5303/find-github/blob/master/content/contributors.md)
 
