@@ -20,15 +20,15 @@
             <td align="center">用户自荐</td>
         </tr>       
         <tr>
-            <td align="center"><a href="content/c.md">C</a></td> 
-            <td align="center"><a href="content/c.md">C</a></td> 
+            <td align="center"><a href="content/lang/c.md">C</a></td> 
+            <td align="center"><a href="content/user/c.md">C</a></td> 
         </tr>
         <tr>
-            <td align="center"><a href="content/cplus.md">C++</a></td> 
-            <td align="center"><a href="content/cplus.md">C++</a></td> 
+            <td align="center"><a href="content/lang/cplus.md">C++</a></td> 
+            <td align="center"><a href="content/user/cplus.md">C++</a></td> 
         </tr>
         <tr>
-            <td align="center"><a href="content/csharp.md">C#</a></td> 
+            <td align="center"><a href="content/csharp.md">C#(dotnet)</a></td> 
             <td align="center"><a href="content/csharp.md">C#</a></td> 
         </tr>
         <tr>
