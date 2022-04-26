@@ -10,7 +10,7 @@
 ## 分类
 
 <div align="center">
-    综合类别中的项目，正努力翻译为中文，让大家更方便阅读
+    文档中英文部分，正努力翻译为中文（或加备注），让大家更方便阅读
 </div>
 <br>
 <div align="center">
@@ -21,99 +21,99 @@
         </tr>       
         <tr>
             <td align="center"><a href="content/lang/c.md">C</a></td> 
-            <td align="center"><a href="content/user/c.md">C</a></td> 
+            <td align="center"><a href="content/hot/vue.md">vue</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/cplus.md">C++</a></td> 
-            <td align="center"><a href="content/user/cplus.md">C++</a></td> 
+            <td align="center"><a href="content/hot/backend.md">后端技术图谱</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/csharp.md">C#(dotnet)</a></td> 
-            <td align="center"><a href="content/csharp.md">C#</a></td> 
+            <td align="center"><a href="content/hot/mac.md">macOS资源</a></td>
         </tr>
         <tr>
             <td align="center"><a href="content/lang/dart.md">Dart</a></td> 
-            <td align="center"><a href="content/dart.md">Dart</a></td> 
+            <td align="center"><a href="content/hot/achine-learning.md">机器学习</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/erlang.md">Erlang</a></td> 
-            <td align="center"><a href="content/erlang.md">Erlang</a></td> 
+            <td align="center"><a href="content/hot/react.md">React</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/go.md">Go</a></td> 
-            <td align="center"><a href="content/go.md">Go</a></td> 
+            <td align="center"><a href="content/hot/flutter.md">flutter</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/groovy.md">Groovy</a></td> 
-            <td align="center"><a href="content/groovy.md">Groovy</a></td> 
+            <td align="center"><a href="content/hot/hacking.md">黑客</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/html.md">Html5</a></td> 
-            <td align="center"><a href="content/html.md">Html5</a></td> 
+            <td align="center"><a href="content/hot/android-ui.md">android-ui</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/ios.md">IOS</a></td> 
-            <td align="center"><a href="content/ios.md">IOS</a></td> 
+            <td align="center"><a href="content/hot/scalability.md">scalability</a></td> 
         </tr>        
         <tr>
             <td align="center"><a href="content/lang/javascript.md">JavaScript</a></td> 
-            <td align="center"><a href="content/javascript.md">JavaScript</a></td> 
+            <td align="center"><a href="content/hot/datascience.md">数据科学</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/java.md">Java</a></td> 
-            <td align="center"><a href="content/java.md">Java</a></td> 
+            <td align="center"><a href="content/hot/wechat-weapp.md">微信小程序</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/kotlin.md">Kotlin</a></td> 
-            <td align="center"><a href="content/kotlin.md">Kotlin</a></td> 
+            <td align="center"><a href="content/hot/spider.md">爬虫</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/lua.md">Lua</a></td> 
-            <td align="center"><a href="content/lua.md">Lua</a></td> 
+            <td align="center"><a href="content/hot/docker-compose.md">docker-compose</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/matlab.md">Matlab</a></td> 
-            <td align="center"><a href="content/matlab.md">Matlab</a></td> 
+            <td align="center"><a href="content/hot/pentest.md">渗透测试</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/nodejs.md">Node.js</a></td> 
-            <td align="center"><a href="content/nodejs.md">Node.js</a></td> 
+            <td align="center"><a href="content/hot/sysadmin.md">管理后台系统</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/php.md">PHP</a></td> 
-            <td align="center"><a href="content/php.md">PHP</a></td> 
+            <td align="center"><a href="content/hot/tensorflow.md">tensorflow</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/python.md">Python</a></td> 
-            <td align="center"><a href="content/python.md">Python</a></td> 
+            <td align="center"><a href="content/hot/deep-learning.md">深度学习</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/perl.md">Perl</a></td> 
-            <td align="center"><a href="content/perl.md">Perl</a></td> 
+            <td align="center"><a href="content/hot/docker.md">docker</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/pascal.md">Pascal</a></td> 
-            <td align="center"><a href="content/pascal.md">Pascal</a></td> 
+            <td align="center"><a href="content/hot/electron.md">electron</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/r.md">R</a></td> 
-            <td align="center"><a href="content/r.md">R</a></td> 
+            <td align="center"><a href="content/hot/frontend.md">前端组件库</a></td> 
         </tr>   
         <tr>
             <td align="center"><a href="content/lang/rust.md">Rust</a></td> 
-            <td align="center"><a href="content/rust.md">Rust</a></td> 
+            <td align="center"><a href="content/hot/npl.md">npl</a></td> 
         </tr>             
         <tr>
             <td align="center"><a href="content/lang/ruby.md">Ruby</a></td> 
-            <td align="center"><a href="content/ruby.md">Ruby</a></td> 
+            <td align="center"><a href="content/hot/laravel.md">laravel</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/shell.md">Shell</a></td> 
-            <td align="center"><a href="content/shell.md">Shell</a></td> 
+            <td align="center"><a href="content/hot/bigdata.md">大数据</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/typescript.md">TypeScript</a></td> 
-            <td align="center"><a href="content/typescript.md">TypeScript</a></td> 
+            <td align="center"><a href="content/hot/graphql.md">graphql</a></td> 
         </tr>           
     </table>
 </div>
