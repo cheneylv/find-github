@@ -1,34 +1,35 @@
 ## Awesome Vue.js
 
 > 与 Vue.js 相关的精彩内容的精选列表
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Job Portal](#job-portal)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Podcasts](#podcasts)
-  - [Youtube Channels](#youtube-channels)
-  - [Official Examples](#official-examples)
-  - [Tutorials](#tutorials)
-  - [Examples](#examples)
-  - [Books](#books)
-  - [Blog Posts](#blog-posts)
-  - [Courses](#courses)
-  - [Documentaries](#documentaries)
-- [Projects Using Vue.js](#projects-using-vuejs)
-  - [Open Source](#open-source)
-  - [Commercial Products](#commercial-products)
-  - [Apps/Websites](#appswebsites)
-  - [Interactive Experiences](#interactive-experiences)
-  - [Enterprise Usage](#enterprise-usage)
+
+- [Resources](#resources) - 资源
+  - [Official Resources](#official-resources) - 官方资源
+  - [External Resources](#external-resources) - 外部资源
+  - [Job Portal](#job-portal) - 工作门户
+  - [Community](#community) - 社区
+  - [Conferences](#conferences) - 会议
+  - [Podcasts](#podcasts) - 播客
+  - [Youtube Channels](#youtube-channels) - Youtube频道
+  - [Official Examples](#official-examples) - 官方案例
+  - [Tutorials](#tutorials) - 教程
+  - [Examples](#examples) - 案例
+  - [Books](#books) - 书籍
+  - [Blog Posts](#blog-posts) - 博客
+  - [Courses](#courses) - 课程
+  - [Documentaries](#documentaries) - 文档
+- [Projects Using Vue.js](#projects-using-vuejs) - 使用Vue的项目
+  - [Open Source](#open-source) - 开源项目
+  - [Commercial Products](#commercial-products) - 商业产品
+  - [Apps/Websites](#appswebsites) - 应用和网站
+  - [Interactive Experiences](#interactive-experiences) - 交互体验
+  - [Enterprise Usage](#enterprise-usage) - 企业使用
   - [A11y](#a11y)
-- [Components & Libraries](#components--libraries)
-  - [UI Components](#ui-components)
-    - [Table](#table)
-    - [Notification](#notification)
-    - [Loader](#loader)
-      - [Progress Bar](#progress-bar)
+- [Components & Libraries](#components--libraries) - 组件和库
+  - [UI Components](#ui-components) - UI组件
+    - [Table](#table) - 表
+    - [Notification](#notification) - 通知
+    - [Loader](#loader) - 加载
+      - [Progress Bar](#progress-bar) - 进度条
     - [Tooltip](#tooltip)
     - [Overlay](#overlay)
     - [Parallax](#parallax)

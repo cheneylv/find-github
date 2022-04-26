@@ -37,28 +37,28 @@ c语言精品资源
 * [Lexing and Parsing](#lexing-and-parsing) - 词法分析
 * [Memory Management](#memory-management) - 内存管理
 * [Multimedia](#multimedia) - 多媒体技术
-* [Networking and Internet](#networking-and-internet)
-* [Numerical](#numerical)
-* [Profiling](#profiling)
-* [Regex](#regex)
-* [Serialization](#serialization)
-* [Source Code Collections](#source-code-collections)
-* [Standard Libraries](#standard-libraries)
-  * [Template Libraries](#template-libraries)
-* [String Manipulation](#string-manipulation)
-* [Structured File Processing](#structured-file-processing)
+* [Networking and Internet](#networking-and-internet) - 网络
+* [Numerical](#numerical) - 数字
+* [Profiling](#profiling) - 概要
+* [Regex](#regex) - 正则表达式
+* [Serialization](#serialization) - 序列化
+* [Source Code Collections](#source-code-collections) - 源码合集
+* [Standard Libraries](#standard-libraries) - 标准库
+  * [Template Libraries](#template-libraries) - 模板库
+* [String Manipulation](#string-manipulation) - 字符串操作
+* [Structured File Processing](#structured-file-processing) - 结构化文件处理
 	* [CSV](#csv)
 	* [JSON](#json)
 	* [INI](#ini)
 	* [Others](#others)
 	* [XML](#xml)
 	* [YAML](#yaml)
-* [Testing](#testing)
-* [Text Editor Extensions](#text-editor-extensions)
-* [Tools](#tools)
-* [Utilities](#utilities)
-* [Web Frameworks](#web-frameworks)
-* [Windows Environments](#windows-environments)
+* [Testing](#testing) - 测试
+* [Text Editor Extensions](#text-editor-extensions) - 文本编辑器扩展
+* [Tools](#tools) - 工具
+* [Utilities](#utilities) - 实用库
+* [Web Frameworks](#web-frameworks) - web框架
+* [Windows Environments](#windows-environments) - Windows环境
 
 ## AI ##
 
