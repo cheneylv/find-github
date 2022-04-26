@@ -1,17 +1,23 @@
 <div align="center">
     <h1>发现实用的GitHub项目</h1>
-    相信很多人和我一样，空闲的时候，翻翻GitHub，已经成为一种生活方式。
 </div>
 
+## 介绍
+相信很多人和我一样，空闲的时候，翻翻GitHub，已经成为一种生活方式。
 ## 阅读器
 正在开发一款桌面软件，可以发现、查找GitHub项目，并方便的阅读源码。
 
 ## 分类
+
+<div align="center">
+    综合类别中的项目，正努力翻译为中文，让大家更方便阅读
+</div>
+<br>
 <div align="center">
     <table>
         <tr>
-            <td align="center">语言</td>
             <td align="center">综合</td>
+            <td align="center">用户自荐</td>
         </tr>       
         <tr>
             <td align="center"><a href="content/c.md">C</a></td> 
