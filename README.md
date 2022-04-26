@@ -4,10 +4,8 @@
 
 ## 介绍
 各种技术合集，空闲的时候，翻翻GitHub，已经成为一种生活方式。
-## 阅读器
-正在开发一款桌面软件，可以发现、查找GitHub项目，并方便的阅读源码。
 
-## 分类
+## 内容
 
 <div align="center">
     文档中英文部分，正努力翻译为中文（或加备注），让大家更方便阅读
@@ -118,6 +116,9 @@
     </table>
 </div>
 
+
+## 阅读器
+正在开发一款桌面软件，可以发现、查找GitHub项目，并方便的阅读源码。
 
 ## 自荐
 欢迎[自荐](https://github.com/wallace5303/find-github/issues/new)项目，成为 **find-github** 的[贡献者](https://github.com/wallace5303/find-github/blob/master/content/contributors.md)
