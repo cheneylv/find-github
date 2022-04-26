@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>发现有趣的GitHub项目</h1>
+    <h1>发现实用的GitHub项目</h1>
     相信很多人和我一样，空闲的时候，翻翻GitHub，已经成为一种生活方式。
 </div>
 
@@ -10,13 +10,9 @@
 <div align="center">
     <table>
         <tr>
-            <td align="center">软件</td>
-            <td align="center">资料</td>
-        </tr>
-        <tr>
-            <td align="center"><a href="content/assembly.md">Assembly</a></td> 
-            <td align="center"><a href="content/assembly.md">Assembly</a></td>
-        </tr>
+            <td align="center">语言</td>
+            <td align="center">综合</td>
+        </tr>       
         <tr>
             <td align="center"><a href="content/c.md">C</a></td> 
             <td align="center"><a href="content/c.md">C</a></td> 
@@ -100,11 +96,11 @@
         <tr>
             <td align="center"><a href="content/r.md">R</a></td> 
             <td align="center"><a href="content/r.md">R</a></td> 
-        </tr>        
+        </tr>   
         <tr>
             <td align="center"><a href="content/rust.md">Rust</a></td> 
             <td align="center"><a href="content/rust.md">Rust</a></td> 
-        </tr>
+        </tr>             
         <tr>
             <td align="center"><a href="content/ruby.md">Ruby</a></td> 
             <td align="center"><a href="content/ruby.md">Ruby</a></td> 
@@ -125,10 +121,6 @@
             <td align="center"><a href="content/teX.md">TeX</a></td> 
             <td align="center"><a href="content/teX.md">TeX</a></td> 
         </tr>        
-        <tr>
-            <td align="center"><a href="content/vue.md">Vue</a></td> 
-            <td align="center"><a href="content/vue.md">Vue</a></td> 
-        </tr>
         <tr>
             <td align="center"><a href="content/vim.md">Vim</a></td> 
             <td align="center"><a href="content/vim.md">Vim</a></td> 
@@ -136,7 +128,7 @@
     </table>
 </div>
 
-欢迎[自荐](https://github.com/wallace5303/find-github/issues/new)项目成为 **find-github** 的[贡献者](https://github.com/wallace5303/find-github/blob/master/content/contributors.md)
+欢迎[自荐](https://github.com/wallace5303/find-github/issues/new)项目，成为 **find-github** 的[贡献者](https://github.com/wallace5303/find-github/blob/master/content/contributors.md)
 
 ## 声明
 
