@@ -89,7 +89,7 @@
         </tr>
         <tr>
             <td align="center"><a href="content/lang/pascal.md">Pascal</a></td> 
-            <td align="center"><a href="content/hot/electron.md">electron</a></td> 
+            <td align="center"><a href="content/hot/electron.md">Electron</a></td> 
         </tr>
         <tr>
             <td align="center"><a href="content/lang/r.md">R</a></td> 
@@ -116,7 +116,14 @@
 
 
 ## GitHub阅读器
-正在开发一款桌面软件，可以发现、查找GitHub项目，并方便的阅读源码。
+使用[electron-egg](https://gitee.com/wallace5303/electron-egg)开发的桌面软件，可以发现、查找GitHub项目，并方便的阅读源码。
+- 效果
+    ![](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/img/github-reader/gr-home.png)
+    ![](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/img/github-reader/gr-reader.png)
+    
+### 下载客户端
+- [Windows 1.0.0](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/github-reader/win/github-reader.exe?download=true)    
+- [macOS 1.0.0](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/github-reader/mac/github-reader.dmg?download=true)  
 
 ## 自荐
 欢迎[自荐](https://github.com/wallace5303/find-github/issues/new)项目，成为 **find-github** 的[贡献者](https://github.com/wallace5303/find-github/blob/master/content/contributors.md)
