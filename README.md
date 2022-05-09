@@ -3,9 +3,10 @@
 </div>
 
 ## 介绍
-各种 **技术合集**，空闲的时候，翻翻GitHub，已经成为一种生活方式。
+各种 **技术资料合集**，空闲的时候，看看GitHub，已经成为一种生活方式。
+同时开发了一个桌面客户端，方便找项目。
 
-## 内容
+## 资料内容
 - 文档中英文部分，正努力翻译为中文（或加备注），让大家更方便阅读
 - 24种语言，24种热门技术，约12000个项目
 <br>
@@ -120,7 +121,7 @@
 - 效果
     ![](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/img/github-reader/gr-home.png)
     ![](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/img/github-reader/gr-reader.png)
-    
+
 ### 下载客户端
 - [Windows 1.0.0](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/github-reader/win/github-reader.exe?download=true)    
 - [macOS 1.0.0](https://kaka996.coding.net/p/resource/d/tx-resource/git/raw/master/github-reader/mac/github-reader.dmg?download=true)  
